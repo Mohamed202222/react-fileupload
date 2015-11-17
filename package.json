@@ -1,0 +1,24 @@
+{
+  "name": "react-fileupload",
+  "version": "1.0.0",
+  "description": "stupid fileupload component for ReactJS",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crodas/react-fileupload.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crodas/react-fileupload/issues"
+  },
+  "homepage": "https://github.com/crodas/react-fileupload#readme",
+  "dependencies": {
+    "babel-preset-react": "^6.1.18",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^6.1.0"
+  }
+}
